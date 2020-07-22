@@ -17,3 +17,4 @@ We discovered that SHAP values were very useful for finding good variables for a
 
 acknowledgements: 
 Thanks to the the Kaggle user DIMA for his code which helped me understand the input variables, since there was no data dictionary, and for giving inspiration on how to clean the certain columns of the dataset.
+Also to the anonymous user that helped with the paramsearch file
